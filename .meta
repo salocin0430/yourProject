@@ -1,3 +1,6 @@
 {
-  "projects": {}
+  "projects": {
+    "ClienteServidor": "https://github.com/salocin0430/ClienteServidor.git",
+    "Emprendimiento": "https://github.com/salocin0430/Emprendimiento.git"
+  }
 }
